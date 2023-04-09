@@ -1,0 +1,16 @@
+리뷰 데이터 분석
+- review_word_cloud : 리뷰 빈출단어 워드클라우드
+- review_star_score : 리뷰 평점 계산
+- review_sentiment : 리뷰 감성분석
+
+우리동네 환경지수
+- district_packing_ratio : 지역별 포장비율 계산
+- customer_packinig_count : 고객별 포장횟수 계산
+
+그린 마일리지
+- collect_address : 가맹점 주소 정보 수집
+- green_milage_frontend : 시연 웹페이지(도보 거리, 소모 칼로리, 마일리지, 지도 제공)
+
+포장하기 좋은 날이day
+- date_order_count : 날짜별 전체 주문횟수, 포장 주문횟수 계산
+- weather_alarm : 강수, 폭염 실시간 정보 제공
